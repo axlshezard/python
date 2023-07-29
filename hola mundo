@@ -1,0 +1,5 @@
+'''
+Python es un lenguaje de programación fácil de aprender y comenzaremos con un simple "Hola, Mundo" para familiarizarnos con él.
+Para imprimir un mensaje en la consola, utilizamos la función print().
+'''
+print("¡Hola, Mundo!")
